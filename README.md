@@ -90,3 +90,9 @@ Run the builder by double clicking the cstealer.exe
 ![image](https://github.com/user-attachments/assets/5ddf6dcc-d5c3-4f7d-8a3d-3de819ca416d)
 
 ![image](https://github.com/user-attachments/assets/205101bb-7235-499e-afc3-62e320237f80)
+------------------------------------------------------------------------------------------------------
+
+
+Caution
+Use the tool on someone who has harmed you.
+This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. Educational purpose only!
