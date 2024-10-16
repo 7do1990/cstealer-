@@ -67,13 +67,20 @@ Firefox	❌	❌	❌
 Install
 ------------------------
 Prerequisites
+-------------------------------------------------
+Which version python
 Windows 10/11
 -----------------------------------
+
 Setup
 -------------------------------------------
+
 Download source code zip
+
 Extract zip
+
 First install reqiured packages by double clicking install.bat file
+
 Run the builder by double clicking the cstealer.exe
 -------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/d212339c-e8e9-476b-bc7c-6551401ab21b)
