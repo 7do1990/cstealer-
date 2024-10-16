@@ -42,16 +42,27 @@ Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA code
 General Functions
 Adds file to startup
 
+
 ------------------------------------------------------------------------------------
 Browsers	Browser Data	Crypto Data	Token Grab
+--------------------------------------------------
+
 Chrome	✅	✅	✅
+
 Edge	✅	✅	✅
+
 Brave	✅	✅	✅
+
 Opera (GX)	✅	✅	✅
+
 Opera	✅	✅	✅
+
 Yandex	✅	✅	✅
+
 Firefox	❌	❌	❌
 -----------------------------------------------------------------------------------------------------------------
+
+
 
 Install
 ------------------------
